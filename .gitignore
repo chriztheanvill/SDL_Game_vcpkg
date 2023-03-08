@@ -1,0 +1,20 @@
+compile_commands.json
+compile_commands.json/
+
+## VS Code
+.cache/
+.history/
+build/
+debug/
+.kdev4/
+
+## Google Test
+googletest/
+
+## CLION
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+## QtCreator
+CMakeLists.txt.user
